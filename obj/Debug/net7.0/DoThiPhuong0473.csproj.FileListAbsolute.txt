@@ -1,0 +1,8 @@
+C:\Users\Administrator\3D Objects\BTH_PTPMQL\BAITHI\DoThiPhuong0473\obj\Debug\net7.0\DoThiPhuong0473.csproj.AssemblyReference.cache
+C:\Users\Administrator\3D Objects\BTH_PTPMQL\BAITHI\DoThiPhuong0473\obj\Debug\net7.0\DoThiPhuong0473.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\3D Objects\BTH_PTPMQL\BAITHI\DoThiPhuong0473\obj\Debug\net7.0\DoThiPhuong0473.AssemblyInfoInputs.cache
+C:\Users\Administrator\3D Objects\BTH_PTPMQL\BAITHI\DoThiPhuong0473\obj\Debug\net7.0\DoThiPhuong0473.AssemblyInfo.cs
+C:\Users\Administrator\3D Objects\BTH_PTPMQL\BAITHI\DoThiPhuong0473\obj\Debug\net7.0\DoThiPhuong0473.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\3D Objects\BTH_PTPMQL\BAITHI\DoThiPhuong0473\obj\Debug\net7.0\DoThiPhuong0473.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\3D Objects\BTH_PTPMQL\BAITHI\DoThiPhuong0473\obj\Debug\net7.0\DoThiPhuong0473.RazorAssemblyInfo.cache
+C:\Users\Administrator\3D Objects\BTH_PTPMQL\BAITHI\DoThiPhuong0473\obj\Debug\net7.0\DoThiPhuong0473.RazorAssemblyInfo.cs
